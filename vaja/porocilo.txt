@@ -1,0 +1,2 @@
+1. vse datoteke so unstaged in added
+
