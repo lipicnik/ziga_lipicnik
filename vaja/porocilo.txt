@@ -1,3 +1,6 @@
 1. vse datoteke so unstagednato pa added
+
 2. vse datoteke so unstaged nato pa altered
 
+
+3. datoteka temp.txt je unstaged nato pa deleted 
